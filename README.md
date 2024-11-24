@@ -5,6 +5,7 @@ I started learning about CS around end of 2019 when COVID started and has never 
 I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it
 
 - Currently opened for Software Engineering or AI engineering Internship / Full-time Job
+
 **I do not required any sponsorship to work for any company starting at 2025 January until 2028 August before needing H1B visa sponsorship**
   
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋+I'm+Sean+Tan!;" />
