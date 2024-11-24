@@ -33,7 +33,9 @@ just python code (Flask) allowing features like bulk-emailing.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
 **[Wisconsin Shell](https://github.com/seantan02/cs537-wisconsin_shell)**: Built a shell from scratch using C
+
 **[Stride Scheduler XV6](https://github.com/seantan02/xv6-dynamic-stride-scheduler)**: Modify XV6 to implement Dynamic Stride Scheduler
+
 **[Lazy Memory Allocation](https://github.com/seantan02/xv6-memory-mapping)**: Modify XV6 to implement COW, memory mapping (disk)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -47,16 +49,12 @@ Javascript to built a fully function website for my brother that allowed him to 
 on Hostinger. The web application actually generated more than 20$ usd in a year! I am working on pushing the code to my github but because
 it's a cooperate codebase, I can not just push it. Here's a link to view the website when it was alive (2020 - 2024)
 
-![-----------------------------------------------------](./assets/introduction3.png)
-
 ### Professional Experienes
 
 * Student Software Developer @ DairyBrain UW-Madison (May 2024 - Present), USA
 * Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), USA
 * Policy Library Technician @ UW-Madison (Sept 2022 - May 2024), USA
 * Co-Founder & Software Engineer Lead @ AiTan SDN BHD (2019 - 2024), Malaysia (MY FAVORITE AND IT TAUGHT ME SO MUCH!)
-
-![-----------------------------------------------------](./assets/introduction4.png)
 
 ### About ME
 I was born in Klang, Selangor, Malaysia in an average Malaysian Chinese household of 4 (before me).
