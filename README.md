@@ -8,7 +8,7 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 
 **I do not required any sponsorship to work for any company starting at 2025 January until 2028 August before needing H1B visa sponsorship**
   
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋+I'm+Sean+Tan!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=2000&lines=Howdy!+👋+I'm+Sean+Tan!;" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seantan02) 
