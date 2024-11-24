@@ -1,7 +1,7 @@
 ## who am i
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Howdy!+👋 +I'm+Sean+Tan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Howdy!+👋+, +I'm+Sean+Tan!;" />
 </h1>
 
 I'm currently a Senior majoring in CS & DS @ UW-Madison with a CS GPA of 3.95 + 3x Dean's List Award.
