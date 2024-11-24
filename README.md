@@ -9,29 +9,35 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 ![-----------------------------------------------------](./assets/introduction2.png)
 
 ## skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="./assets/cplusplus.svg" alt="Java" width="40" height="40"/> <img src="./assets/github.svg" alt="Java" width="40" height="40"/> <img src="./assets/pytorch.svg" alt="Java" width="40" height="40"/> <img src="./assets/vim.svg" alt="Java" width="40" height="40"/>
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
 in UW-Madison where most of the CS students fear, Operating System. After building a shell (terminal) and file system in XV6 for
 the projects in class, I honestly can write C with my eyes closed.
 
-Projects relavent to each skills:
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) 
+## Projects relavent to each skills:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
 **[Summary AI]([Link](https://github.com/seantan02/summary_AI))**: A summary transformer I built from scratch using PyTorch, pandas.
 **[Data Analysis]([Link](https://github.com/seantan02/data-analysis))**: A project similar to what I built during internship to perform analysis on test results
 **[AiTanMall]([Link](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
 just python code (Flask) allowing features like bulk-emailing.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
 **[Wisconsin Shell]([Link]((https://github.com/seantan02/cs537-wisconsin_shell)))**: Built a shell from scratch using C
 **[Stride Scheduler XV6]([Link](https://github.com/seantan02/xv6-dynamic-stride-scheduler))**: Modify XV6 to implement Dynamic Stride Scheduler
 **[Lazy Memory Allocation]([Link](https://github.com/seantan02/xv6-memory-mapping))**: Modify XV6 to implement COW, memory mapping (disk)
 
-![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY31U1ryM1lggsloYppz227oUXoPFFGSM_w&s)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
 **[Graduate Better]([Link](https://github.com/seantan02/graduateBetter))**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
 
-![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="./assets/php.svg" alt="Java" width="40" height="40"/>
+
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 I started learning CS during COVID year building an E-commerce for my brother. I used only PHP, MySQL, HTML, CSS, Jquery, and
 Javascript to built a fully function website for my brother that allowed him to run his business. I hosted the website
