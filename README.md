@@ -23,22 +23,22 @@ the projects in class, I honestly can write C with my eyes closed.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
-**[![Summary AI]](https://github.com/seantan02/summary_AI)**: A summary transformer I built from scratch using PyTorch, pandas.
+**[Summary AI](https://github.com/seantan02/summary_AI)**: A summary transformer I built from scratch using PyTorch, pandas.
 
-**[![Data Analysis]](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
+**[Data Analysis](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
 
-**[![Data Analysis]]([https://github.com/seantan02/data-analysis](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
+**[Data Analysis]([https://github.com/seantan02/data-analysis](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
 just python code (Flask) allowing features like bulk-emailing.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
-**[Wisconsin Shell]([Link]((https://github.com/seantan02/cs537-wisconsin_shell)))**: Built a shell from scratch using C
-**[Stride Scheduler XV6]([Link](https://github.com/seantan02/xv6-dynamic-stride-scheduler))**: Modify XV6 to implement Dynamic Stride Scheduler
-**[Lazy Memory Allocation]([Link](https://github.com/seantan02/xv6-memory-mapping))**: Modify XV6 to implement COW, memory mapping (disk)
+**[Wisconsin Shell](https://github.com/seantan02/cs537-wisconsin_shell)**: Built a shell from scratch using C
+**[Stride Scheduler XV6](https://github.com/seantan02/xv6-dynamic-stride-scheduler)**: Modify XV6 to implement Dynamic Stride Scheduler
+**[Lazy Memory Allocation](https://github.com/seantan02/xv6-memory-mapping)**: Modify XV6 to implement COW, memory mapping (disk)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
-**[Graduate Better]([Link](https://github.com/seantan02/graduateBetter))**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
+**[Graduate Better](https://github.com/seantan02/graduateBetter)**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
 
 ![JAVA](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
