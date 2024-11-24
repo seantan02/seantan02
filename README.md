@@ -9,14 +9,7 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 ![-----------------------------------------------------](./assets/introduction2.png)
 
 ## skills
-<!-- C Icon -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-
-<!-- Python Icon -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-<!-- Java Icon -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original" alt="Java" width="40" height="40"/>
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
