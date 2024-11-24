@@ -1,16 +1,17 @@
-## who am i
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Howdy!+👋+I'm+Sean+Tan!;" />
 </h1>
+
+## WHO AM I
 
 I'm currently a Senior majoring in CS & DS @ UW-Madison with a CS GPA of 3.95 + 3x Dean's List Award.
 I started learning about CS around end of 2019 when COVID started and has never stopped since.
 I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it
 
-![-----------------------------------------------------](./assets/introduction2.png)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seantan02) 
 
-## skills
+## SKILLS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="./assets/cplusplus.svg" alt="Java" width="40" height="40"/> <img src="./assets/github.svg" alt="Java" width="40" height="40"/> <img src="./assets/pytorch.svg" alt="Java" width="40" height="40"/> <img src="./assets/vim.svg" alt="Java" width="40" height="40"/>
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
@@ -23,7 +24,7 @@ the projects in class, I honestly can write C with my eyes closed.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
 **[Summary AI]([Link](https://github.com/seantan02/summary_AI))**: A summary transformer I built from scratch using PyTorch, pandas.
-**[Data Analysis]([Link](https://github.com/seantan02/data-analysis))**: A project similar to what I built during internship to perform analysis on test results
+**[Data Analysis][![Link]](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
 **[AiTanMall]([Link](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
 just python code (Flask) allowing features like bulk-emailing.
 
@@ -46,7 +47,7 @@ it's a cooperate codebase, I can not just push it. Here's a link to view the web
 
 ![-----------------------------------------------------](./assets/introduction3.png)
 
-### other experiences
+### Professional Experienes
 
 * Student Software Developer @ DairyBrain UW-Madison (May 2024 - Present), USA
 * Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), USA
@@ -55,7 +56,7 @@ it's a cooperate codebase, I can not just push it. Here's a link to view the web
 
 ![-----------------------------------------------------](./assets/introduction4.png)
 
-### about me
+### About ME
 I was born in Klang, Selangor, Malaysia in an average Malaysian Chinese household of 4 (before me).
 My parents and my brothers were all middle-school dropouts and can barely speak English.
 I grew up as the last child until I was 10 (damn it younger sister but I love you still).
