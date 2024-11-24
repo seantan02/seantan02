@@ -9,9 +9,11 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 ![-----------------------------------------------------](./assets/introduction2.png)
 
 ## skills
-[![My Skills](https://skillicons.dev/icons?i=py, c, java, pytorch, sql, cpp&perline=3)](https://skillicons.dev)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY31U1ryM1lggsloYppz227oUXoPFFGSM_w&s)
-![PyTorch](https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg) ![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py, c, java, pytorch, sql, git, vim, cpp" />
+  </a>
+</p>
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
