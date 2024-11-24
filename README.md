@@ -1,12 +1,13 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋+I'm+Sean+Tan!;" />
-</h1>
-
 ## WHO AM I
 
 I'm currently a Senior majoring in CS & DS @ UW-Madison with a CS GPA of 3.95 + 3x Dean's List Award.
 I started learning about CS around end of 2019 when COVID started and has never stopped since.
 I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it
+
+- Currently opened for Software Engineering or AI engineering Internship / Full-time Job
+**I do not required any sponsorship to work for any company starting at 2025 January until 2028 August before needing H1B visa sponsorship**
+  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋+I'm+Sean+Tan!;" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seantan02) 
