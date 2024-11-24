@@ -9,8 +9,9 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 ![-----------------------------------------------------](./assets/introduction2.png)
 
 ## skills
-
 [![My Skills](https://skillicons.dev/icons?i=py, c, java, pytorch, sql, cpp&perline=3)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY31U1ryM1lggsloYppz227oUXoPFFGSM_w&s)
+![PyTorch](https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg) ![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
@@ -24,15 +25,15 @@ Projects relavent to each skills:
 **[AiTanMall]([Link](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
 just python code (Flask) allowing features like bulk-emailing.
 
-![C](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 **[Wisconsin Shell]([Link]((https://github.com/seantan02/cs537-wisconsin_shell)))**: Built a shell from scratch using C
 **[Stride Scheduler XV6]([Link](https://github.com/seantan02/xv6-dynamic-stride-scheduler))**: Modify XV6 to implement Dynamic Stride Scheduler
 **[Lazy Memory Allocation]([Link](https://github.com/seantan02/xv6-memory-mapping))**: Modify XV6 to implement COW, memory mapping (disk)
 
-![Java](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) 
+![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY31U1ryM1lggsloYppz227oUXoPFFGSM_w&s)
 **[Graduate Better]([Link](https://github.com/seantan02/graduateBetter))**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
 
-[![Other Skills](https://skillicons.dev/icons?i=php, html, css, jquery, js, react&perline=3)](https://skillicons.dev)
+![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 I started learning CS during COVID year building an E-commerce for my brother. I used only PHP, MySQL, HTML, CSS, Jquery, and
 Javascript to built a fully function website for my brother that allowed him to run his business. I hosted the website
