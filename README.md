@@ -10,7 +10,7 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 
 ## skills
 
-[![Python, C, Java, Pytorch, Flask](https://skillicons.dev/icons?i=py, c, java, cpp, pytorch, flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py, c, java, pytorch, sql, cpp&perline=3)](https://skillicons.dev)
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
@@ -32,7 +32,7 @@ just python code (Flask) allowing features like bulk-emailing.
 ![Java](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) 
 **[Graduate Better]([Link](https://github.com/seantan02/graduateBetter))**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
 
-[![PHP, Javascript, HTML, CSS, React](https://skillicons.dev/icons?i=php, js, html, css, react)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=php, html, css, jquery, js, react&perline=3)](https://skillicons.dev)
 
 I started learning CS during COVID year building an E-commerce for my brother. I used only PHP, MySQL, HTML, CSS, Jquery, and
 Javascript to built a fully function website for my brother that allowed him to run his business. I hosted the website
