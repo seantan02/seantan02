@@ -23,9 +23,11 @@ the projects in class, I honestly can write C with my eyes closed.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
-**[Summary AI]([Link](https://github.com/seantan02/summary_AI))**: A summary transformer I built from scratch using PyTorch, pandas.
-**[Data Analysis][![Link]](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
-**[AiTanMall]([Link](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
+**[![Summary AI]](https://github.com/seantan02/summary_AI)**: A summary transformer I built from scratch using PyTorch, pandas.
+
+**[![Data Analysis]](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
+
+**[![Data Analysis]]([https://github.com/seantan02/data-analysis](https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq))**: I refurbrished the entire web application in summer 2023 into
 just python code (Flask) allowing features like bulk-emailing.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
