@@ -11,10 +11,9 @@ I love hooping and acting like I am Steph Curry, but for most part, I write code
 ## skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, c, java, pytorch, sql, git, vim, cpp" />
+    <img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 I've used Python nearly everyday since 2020, I started both using Python and Java around the time when I started college.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
