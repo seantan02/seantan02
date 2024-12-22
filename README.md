@@ -33,6 +33,7 @@ the projects in class, I honestly can write C with my eyes closed.
 just python code (Flask) allowing features like bulk-emailing.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+**[FUSE File System](https://github.com/seantan02/fuse-file-system)**: Built a FUSE File System from scratch in C for Linux
 
 **[Wisconsin Shell](https://github.com/seantan02/cs537-wisconsin_shell)**: Built a shell from scratch using C
 
