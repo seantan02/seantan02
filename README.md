@@ -29,7 +29,7 @@ the projects in class, I honestly can write C with my eyes closed.
 
 **[Data Analysis](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
 
-**[Aitanmall Ecommerce]([https://drive.google.com/drive/folders/1_xDZXVCJt82a65qkgWLOeXOuK_VNNVCq](https://github.com/seantan02/aitanmall/tree/main))**: I refurbrished the entire web application in summer 2023 into
+**[Aitanmall Ecommerce](https://github.com/seantan02/aitanmall/tree/main)**: I refurbrished the entire web application in summer 2023 into
 just python code (Flask) allowing features like bulk-emailing.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
