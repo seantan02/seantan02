@@ -25,12 +25,11 @@ the projects in class, I honestly can write C with my eyes closed.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
+**[Aitanmall Ecommerce](https://github.com/seantan02/aitanmall/tree/main)**: My first project; An eCommerce built from scratch using Python, JavaScript, CSS, and HTML.
+
 **[Summary AI](https://github.com/seantan02/summary_AI)**: A summary transformer I built from scratch using PyTorch, pandas.
 
 **[Data Analysis](https://github.com/seantan02/data-analysis)**: A project similar to what I built during internship to perform analysis on test results
-
-**[Aitanmall Ecommerce](https://github.com/seantan02/aitanmall/tree/main)**: I refurbrished the entire web application in summer 2023 into
-just python code (Flask) allowing features like bulk-emailing.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
