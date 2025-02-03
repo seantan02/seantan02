@@ -21,6 +21,15 @@ I started using C about 18 months ago in CS354 class at UW-Madison. I become rea
 in UW-Madison where most of the CS students fear, Operating System. After building a shell (terminal) and file system in XV6 for
 the projects in class, I honestly can write C with my eyes closed.
 
+### Professional Experienes
+
+**[Student Software Developer @ DairyBrain](https://dairybrain.wisc.edu/staff/tan-sean/) UW-Madison (May 2024 - Present), USA
+* Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), Milwaukee, USA
+* Operating System Peer Mentor (CS537 @UWMadison, Jan 2025 - Present), Madison, USA
+* Discrete Matn Peer Mentor (CS240 @UWMadison, August 2024 - Dec 2024), Madison, USA
+* Policy Library Technician @ UW-Madison (Sept 2022 - May 2024), USA
+* Co-Founder & Software Engineer Lead @ AiTan SDN BHD (2019 - 2024), Malaysia (MY FAVORITE AND IT TAUGHT ME SO MUCH!)
+
 ## Projects relavent to each skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -51,13 +60,6 @@ I started learning CS during COVID year building an E-commerce for my brother. I
 Javascript to built a fully function website for my brother that allowed him to run his business. I hosted the website
 on Hostinger. The web application actually generated more than 20$ usd in a year! I am working on pushing the code to my github but because
 it's a cooperate codebase, I can not just push it. Here's a link to view the website when it was alive (2020 - 2024)
-
-### Professional Experienes
-
-* Student Software Developer @ DairyBrain UW-Madison (May 2024 - Present), USA
-* Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), USA
-* Policy Library Technician @ UW-Madison (Sept 2022 - May 2024), USA
-* Co-Founder & Software Engineer Lead @ AiTan SDN BHD (2019 - 2024), Malaysia (MY FAVORITE AND IT TAUGHT ME SO MUCH!)
 
 ### About ME
 I was born in Klang, Selangor, Malaysia in an average Malaysian Chinese household of 4 (before me).
