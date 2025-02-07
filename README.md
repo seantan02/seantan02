@@ -23,7 +23,7 @@ the projects in class, I honestly can write C with my eyes closed.
 
 ### Professional Experienes
 
-* **[Student Software Developer @ DairyBrain](https://dairybrain.wisc.edu/staff/tan-sean/) UW-Madison (May 2024 - Present), USA
+* [Student Software Developer @ DairyBrain](https://dairybrain.wisc.edu/staff/tan-sean/) UW-Madison (May 2024 - Present), USA
 * Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), Milwaukee, USA
 * Operating System Peer Mentor (CS537 @UWMadison, Jan 2025 - Present), Madison, USA
 * Discrete Matn Peer Mentor (CS240 @UWMadison, August 2024 - Dec 2024), Madison, USA
