@@ -57,8 +57,7 @@ the projects in class, I honestly can write C with my eyes closed.
 **[Graduate Better](https://github.com/seantan02/graduateBetter)**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React" width="40" height="40"/>
 
 **[Task Manager](https://github.com/seantan02/Task-Manager/tree/main)**: A task manager project built in React, TypeScript, and Express JS with Docker.
 
