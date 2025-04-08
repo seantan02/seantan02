@@ -1,6 +1,6 @@
 ## WHO AM I
 
-I'm currently a Senior majoring in CS & DS @ UW-Madison with a CS GPA of 3.95 + 4 x Dean's List Award.
+I am Sean, currently a graduating Junior majoring in CS & DS @ UW-Madison with a CS GPA of 3.95 + 4 x Dean's List Award. I am also the founder of [Graduate Better](https://graduatebetter.com)
 I started learning about CS around end of 2019 when COVID started and has never stopped since.
 I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it
 
