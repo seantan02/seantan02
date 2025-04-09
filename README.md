@@ -51,7 +51,7 @@ the projects in class, I honestly can write C with my eyes closed.
 
 **[Lazy Memory Allocation](https://github.com/seantan02/xv6-memory-mapping)**: Modify XV6 to implement COW, memory mapping (disk)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40"/>
 
 **[Graduate Better](https://github.com/seantan02/graduateBetter)**: The project aims to benefit all UW-Madison students that me and my friend Anton are working on
 
