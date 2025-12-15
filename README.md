@@ -1,6 +1,6 @@
 ## WHO AM I
 
-I am Sean, currently a graduating Junior majoring in CS & DS @ UW-Madison with a CS GPA of 3.95 + 4 x Dean's List Award. I am also the founder of [Graduate Better](https://graduatebetter.com) .
+I am Sean, a UW-Madison graduate majored in CS & DS with a CS GPA of 3.95 + 4 x Dean's List Award. I am also the founder of [Graduate Better](https://graduatebetter.com) .
 I started learning about CS around end of 2019 when COVID started and has never stopped since. I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it.
 
 - Any inquiry regarding business or employment opportunity, please reach out to seantsa02@gmail.com
@@ -11,18 +11,20 @@ I started learning about CS around end of 2019 when COVID started and has never 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seantan02) 
 
 ## SKILLS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="./assets/cplusplus.svg" alt="Cpp" width="40" height="40"/> <img src="./assets/github.svg" alt="Git" width="40" height="40"/> <img src="./assets/pytorch.svg" alt="PyTorch" width="40" height="40"/> <img src="./assets/vim.svg" alt="Java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="./assets/cplusplus.svg" alt="Cpp" width="40" height="40"/> <img src="./assets/github.svg" alt="Git" width="40" height="40"/> <img src="./assets/pytorch.svg" alt="PyTorch" width="40" height="40"/> <img src="./assets/vim.svg" alt="Java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React" width="40" height="40"/>
 
 
 I've used Python nearly everyday since 2020, I started using Java around the time when I started college.
+Started using C# around summer 2024 during my internship and has used it to built 2 major APIs since then.
 I started using C about 18 months ago in CS354 class at UW-Madison. I become really fluent in C after completing the class
 in UW-Madison where most of the CS students fear, Operating System. After building a shell (terminal) and file system in XV6 for
 the projects in class, I honestly can write C with my eyes closed.
 
 ### Professional Experienes
 
-* [Student Software Developer @ DairyBrain](https://dairybrain.wisc.edu/staff/tan-sean/) UW-Madison (May 2024 - Present), USA
+* [Head Software Engineer @ Associated Appraisal Consultants INC] Madison (July 2025 - Present), USA
+* [Student Software Developer @ DairyBrain](https://dairybrain.wisc.edu/staff/tan-sean/) UW-Madison (May 2024 - June 2025), USA
 * Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), Milwaukee, USA
 * Operating System Peer Mentor (CS537 @UWMadison, Jan 2025 - Present), Madison, USA
 * Discrete Matn Peer Mentor (CS240 @UWMadison, August 2024 - Dec 2024), Madison, USA
