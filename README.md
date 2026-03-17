@@ -1,7 +1,7 @@
 ## WHO AM I
 
-I am Sean, a UW-Madison graduate majored in CS & DS with a CS GPA of 3.95 + 4 x Dean's List Award. I am also the founder of [Graduate Better](https://graduatebetter.com) .
-I started learning about CS around end of 2019 when COVID started and has never stopped since. I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it.
+I am Sean, a UW-Madison graduate majored in CS & DS with a CS GPA of 3.95 + 4 x Dean's List Award. I am also the founder of [Graduate Better](https://graduatebetter.com) (the site is currently down due to financial hardship to maintain the service).
+I love hooping and acting like I am Steph Curry, but for most part, I write code and build stuff that I think real human will want to use it.
 
 - Any inquiry regarding business or employment opportunity, please reach out to seantsa02@gmail.com
   
@@ -23,12 +23,13 @@ the projects in class, I honestly can write C with my eyes closed.
 
 ### Professional Experienes
 
-* [Head Software Engineer @ Associated Appraisal Consultants INC] Madison (July 2025 - Present), USA
+* [Founding Software Engineer @ Associated Appraisal Consultants INC] Madison (July 2025 - Present), USA
 * [Student Software Developer @ DairyBrain](https://dairybrain.wisc.edu/staff/tan-sean/) UW-Madison (May 2024 - June 2025), USA
-* Software Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), Milwaukee, USA
+* Software Quality/Performance Engineer Intern @ SKYGEN USA LLC (May 2024 - August 2024), Milwaukee, USA
 * Operating System Peer Mentor (CS537 @UWMadison, Jan 2025 - Present), Madison, USA
 * Discrete Matn Peer Mentor (CS240 @UWMadison, August 2024 - Dec 2024), Madison, USA
 * Policy Library Technician @ UW-Madison (Sept 2022 - May 2024), USA
+* Gordon Dining Hall Student Worker @ UW-Madison (Sept 2022 - May 2023), USA
 * Co-Founder & Software Engineer Lead @ AiTan SDN BHD (2019 - 2024), Malaysia (MY FAVORITE AND IT TAUGHT ME SO MUCH!)
 
 ## Projects relavent to each skills:
